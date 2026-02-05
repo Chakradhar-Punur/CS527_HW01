@@ -1,6 +1,6 @@
 # CS 527 – Homework 1
+
 **Name:** Chakradhar Reddy Punur (NetID: crp190)
-**Course:** Database Systems for Data Science (CS 527)
 
 ---
 
